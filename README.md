@@ -1,4 +1,4 @@
-# ddosPrevention
+# DDoSDet
 ## Abstract
 
 Cyber-attacks have been one of the deadliest attacks in today’s world. One of them is DDoS (Distributed Denial of Services). It is a cyber-attack in which the attacker attacks and makes a network or a machine unavailable to its intended users temporarily or indefinitely, interrupting services of the host that are connected to a network. To define it in simple terms, It’s an attack accomplished by flooding the target machine with unnecessary requests in an attempt to overload and make the systems crash and make the users unable to use that network or a machine. In this research paper, we present the detection of DDoS attacks using neural networks, that would flag malicious and legitimate data flow, preventing network performance degradation. We compared and assessed our suggested system against current models in the field. We are glad to note that our work was 99.7% accurate.
